@@ -1,0 +1,13 @@
+# ignore all
+*
+*.o
+*.a
+*.so
+*.gz
+*.tar
+
+# unignore all with extensions
+#*.*
+
+#unignore all dirs
+#!*/
